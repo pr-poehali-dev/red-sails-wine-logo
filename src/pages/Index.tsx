@@ -63,9 +63,8 @@ const Index = () => {
             <img 
               src="https://cdn.poehali.dev/projects/1218500a-33fb-486e-8301-8f0d70664500/files/a5dea8b2-d469-4901-88ce-9cfae77a19b8.jpg" 
               alt="Алые паруса" 
-              className="h-12 w-12 object-contain"
+              className="h-16 object-contain"
             />
-            <h1 className="text-2xl font-bold text-primary">Алые паруса</h1>
           </div>
           <nav className="hidden md:flex items-center gap-8">
             <a href="#catalog" className="text-foreground hover:text-primary transition-colors">Каталог</a>
